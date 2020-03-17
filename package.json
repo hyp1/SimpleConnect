@@ -1,0 +1,30 @@
+{
+  "name": "simpleconnect",
+  "version": "1.0.0",
+  "description": "Simple Connect Node Module fur Simpleconnect",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyp1/SimpleConnect.git"
+  },
+  "keywords": [
+    "Drupal",
+    "7",
+    "Drupal",
+    "8",
+    "BackdropCMS",
+    "Services"
+  ],
+  "author": "Robert Schweng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyp1/SimpleConnect/issues"
+  },
+  "homepage": "https://github.com/hyp1/SimpleConnect#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
