@@ -2,7 +2,7 @@
   "name": "simpleconnect",
   "version": "1.0.0",
   "description": "Simple Connect Node Module fur Simpleconnect",
-  "main": "index.js",
+  "main": "simpleconnect.js",
   "scripts": {
     "test": "test.js"
   },
